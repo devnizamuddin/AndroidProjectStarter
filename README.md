@@ -18,7 +18,8 @@ allprojects {
   
   Step 2. Add the dependency
   
-```dependencies {
+```
+dependencies {
 	        implementation 'com.github.nshamrat7:AndroidProjectStarter:Tag'
 	}
 ```
